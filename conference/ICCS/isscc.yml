@@ -1,0 +1,22 @@
+  - title: ISSCC
+    description: IEEE International Solid-State Circuits Conference
+    sub: 
+    sub_caai: ICCS
+    rank:
+      caai: B
+      ccf: 
+      core: 
+      thcpl: 
+    dblp: isscc
+    confs:
+      - year: 
+        id: 
+        link: 
+        timeline:
+          - deadline: 
+            comment: 
+          - deadline: 
+            comment: 
+        timezone: 
+        date: 
+        place: 
